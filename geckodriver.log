@@ -1,0 +1,630 @@
+1715153580410	geckodriver	INFO	Listening on 127.0.0.1:64959
+1715153583534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64960" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileFPlvD9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715153584806	Marionette	INFO	Marionette enabled
+1715153584970	Marionette	INFO	Listening on port 64987
+WebDriver BiDi listening on ws://127.0.0.1:64960
+Read port: 64987
+1715153585617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64960/devtools/browser/f4177e21-bcec-4a92-821c-429738d07231
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+1715153600034	Marionette	INFO	Stopped listening on port 64987
+JavaScript warning: chrome://global/content/elements/marquee.js, line 353: Script terminated by timeout at:
+myTimeOutFunction@chrome://global/content/elements/marquee.js:353:7
+
+Dynamically enable window occlusion 1
+1715153856707	geckodriver	INFO	Listening on 127.0.0.1:65263
+1715153859745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65264" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileI9Xknq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715153861129	Marionette	INFO	Marionette enabled
+1715153861442	Marionette	INFO	Listening on port 65280
+WebDriver BiDi listening on ws://127.0.0.1:65264
+Read port: 65280
+1715153862259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65264/devtools/browser/c3cbd3a4-95d8-4368-96c7-fe9af0d0d984
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+1715153878375	Marionette	INFO	Stopped listening on port 65280
+JavaScript warning: chrome://global/content/elements/marquee.js, line 353: Script terminated by timeout at:
+myTimeOutFunction@chrome://global/content/elements/marquee.js:353:7
+
+Dynamically enable window occlusion 1
+1715153883180	geckodriver	INFO	Listening on 127.0.0.1:65389
+1715153886259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65390" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileSEKFjx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715153886789	Marionette	INFO	Marionette enabled
+1715153886993	Marionette	INFO	Listening on port 65401
+WebDriver BiDi listening on ws://127.0.0.1:65390
+Read port: 65401
+1715153887624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65390/devtools/browser/e8b005a1-f589-473b-ab1d-68ea9730aae0
+1715153904763	Marionette	INFO	Stopped listening on port 65401
+JavaScript warning: https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1, line 1: Script terminated by timeout at:
+i.readyException@https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1:1:41819
+i.fn.ready/<@https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1:1:41901
+l@https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1:1:40126
+Deferred/then/s/</a<@https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1:1:40434
+
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+Dynamically enable window occlusion 1
+1715153908856	geckodriver	INFO	Listening on 127.0.0.1:65491
+1715153911915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65492" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofile1DjjcF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715153913706	Marionette	INFO	Marionette enabled
+1715153914210	Marionette	INFO	Listening on port 65504
+WebDriver BiDi listening on ws://127.0.0.1:65492
+Read port: 65504
+1715153915125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65492/devtools/browser/ea400ecb-3c51-4de9-8422-e1561503841d
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+console.error: ({})
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+1715153931877	Marionette	INFO	Stopped listening on port 65504
+Dynamically enable window occlusion 1
+1715153936537	geckodriver	INFO	Listening on 127.0.0.1:49208
+1715153939606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileB4nemq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715153940190	Marionette	INFO	Marionette enabled
+1715153940298	Marionette	INFO	Listening on port 49218
+WebDriver BiDi listening on ws://127.0.0.1:49209
+Read port: 49218
+1715153941101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49209/devtools/browser/7e764bdf-86a6-4f31-965e-d821dd89c217
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+1715153955481	Marionette	INFO	Stopped listening on port 49218
+console.error: ({})
+Dynamically enable window occlusion 1
+1715153961375	geckodriver	INFO	Listening on 127.0.0.1:49305
+1715153964417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49306" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofilereCH1S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715153965035	Marionette	INFO	Marionette enabled
+1715153965418	Marionette	INFO	Listening on port 49313
+WebDriver BiDi listening on ws://127.0.0.1:49306
+Read port: 49313
+1715153966408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49306/devtools/browser/fb3cd087-313e-4a0b-8582-72d9c4e89e39
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+1715153985153	Marionette	INFO	Stopped listening on port 49313
+Dynamically enable window occlusion 1
+1715153989630	geckodriver	INFO	Listening on 127.0.0.1:49405
+1715153992709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49406" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofile27S0vs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715153993467	Marionette	INFO	Marionette enabled
+1715153993747	Marionette	INFO	Listening on port 49414
+Read port: 49414
+WebDriver BiDi listening on ws://127.0.0.1:49406
+1715153993994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49406/devtools/browser/bead7270-b61a-49bb-814d-ebf0cb63dfe1
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+1715154009608	Marionette	INFO	Stopped listening on port 49414
+Dynamically enable window occlusion 1
+1715154016288	geckodriver	INFO	Listening on 127.0.0.1:49507
+1715154019286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49508" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileBMZ8EW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715154019872	Marionette	INFO	Marionette enabled
+1715154019974	Marionette	INFO	Listening on port 49515
+Read port: 49515
+WebDriver BiDi listening on ws://127.0.0.1:49508
+1715154020155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49508/devtools/browser/a72bfc15-0817-4d81-b5ea-c2191e48c0b1
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+1715154035472	Marionette	INFO	Stopped listening on port 49515
+console.error: ({})
+Dynamically enable window occlusion 1
+1715154042076	geckodriver	INFO	Listening on 127.0.0.1:49611
+1715154045136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49612" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileoLalE4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715154046089	Marionette	INFO	Marionette enabled
+1715154046471	Marionette	INFO	Listening on port 49619
+WebDriver BiDi listening on ws://127.0.0.1:49612
+Read port: 49619
+1715154047332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49612/devtools/browser/db864f93-6bb3-456c-8d6b-94d5a259ab48
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+1715154065314	Marionette	INFO	Stopped listening on port 49619
+Dynamically enable window occlusion 1
+1715154069441	geckodriver	INFO	Listening on 127.0.0.1:49715
+1715154072520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49716" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileORUyxj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715154073275	Marionette	INFO	Marionette enabled
+1715154073504	Marionette	INFO	Listening on port 49724
+WebDriver BiDi listening on ws://127.0.0.1:49716
+Read port: 49724
+1715154074169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49716/devtools/browser/7dcdaf6e-bb3e-4068-aaf2-a4260f8c5356
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://ara.jri.ac.ir/bundles/bootstrap?v=A4jUW_VuXmbJ6R8pbi4rfbl-SHQD9gzdcuykQQ7My-U1, line 1: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://ara.jri.ac.ir/Scripts/jquery.easing.min.js, line 44: ReferenceError: jQuery is not defined
+JavaScript error: https://ara.jri.ac.ir/Scripts/jquery-captcha-lgh.min.js, line 6: ReferenceError: $ is not defined
+1715154103241	Marionette	INFO	Stopped listening on port 49724
+console.error: ({})
+Dynamically enable window occlusion 1
+1715154105291	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152071198, errorCode: 2, reason: error
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1715154110285	geckodriver	INFO	Listening on 127.0.0.1:49782
+1715154113380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofilehLuW5m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715154113947	Marionette	INFO	Marionette enabled
+1715154114139	Marionette	INFO	Listening on port 49795
+WebDriver BiDi listening on ws://127.0.0.1:49783
+Read port: 49795
+1715154114687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49783/devtools/browser/c2c455f0-af27-402d-871f-781c6b9c1342
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+1715154129248	Marionette	INFO	Stopped listening on port 49795
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1715154135015	geckodriver	INFO	Listening on 127.0.0.1:49859
+1715154138059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49860" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofile6cYEB1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715154139560	Marionette	INFO	Marionette enabled
+1715154139785	Marionette	INFO	Listening on port 49876
+WebDriver BiDi listening on ws://127.0.0.1:49860
+Read port: 49876
+1715154140257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49860/devtools/browser/c78205c5-2781-4f9e-86f1-df35f689c251
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+1715154157874	Marionette	INFO	Stopped listening on port 49876
+console.error: ({})
+Dynamically enable window occlusion 1
+1715154162208	geckodriver	INFO	Listening on 127.0.0.1:49963
+1715154165273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49964" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofilec2XMHs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715154165905	Marionette	INFO	Marionette enabled
+1715154166128	Marionette	INFO	Listening on port 49982
+WebDriver BiDi listening on ws://127.0.0.1:49964
+Read port: 49982
+1715154166670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49964/devtools/browser/aaf71dec-716e-478d-a5fc-c066c70e3b03
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+1715154182225	Marionette	INFO	Stopped listening on port 49982
+console.error: ({})
+Dynamically enable window occlusion 1
+1715154188358	geckodriver	INFO	Listening on 127.0.0.1:50084
+1715154191409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofilerDgRT2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715154191972	Marionette	INFO	Marionette enabled
+1715154192162	Marionette	INFO	Listening on port 50092
+WebDriver BiDi listening on ws://127.0.0.1:50085
+Read port: 50092
+1715154192709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50085/devtools/browser/0b95b463-19ca-412c-babd-2b996014a9ae
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+1715154208869	Marionette	INFO	Stopped listening on port 50092
+console.error: ({})
+Dynamically enable window occlusion 1
+1715154214622	geckodriver	INFO	Listening on 127.0.0.1:50214
+1715154217674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofilelw7eux"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715154218112	Marionette	INFO	Marionette enabled
+1715154218268	Marionette	INFO	Listening on port 50225
+Read port: 50225
+WebDriver BiDi listening on ws://127.0.0.1:50215
+1715154218724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50215/devtools/browser/57ad1850-b3ba-4dbd-9f29-cad7d7e1149b
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+1715154235385	Marionette	INFO	Stopped listening on port 50225
+Dynamically enable window occlusion 1
+1715154242885	geckodriver	INFO	Listening on 127.0.0.1:50327
+1715154245961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileESGTZd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715154246593	Marionette	INFO	Marionette enabled
+1715154247013	Marionette	INFO	Listening on port 50340
+WebDriver BiDi listening on ws://127.0.0.1:50328
+Read port: 50340
+1715154247940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50328/devtools/browser/70fe5655-dd4f-45ab-8ca5-2f1218e2182e
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+1715154266269	Marionette	INFO	Stopped listening on port 50340
+Dynamically enable window occlusion 1
+1715154272321	geckodriver	INFO	Listening on 127.0.0.1:50424
+1715154275382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileFRmIWf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715154276029	Marionette	INFO	Marionette enabled
+1715154276280	Marionette	INFO	Listening on port 50444
+WebDriver BiDi listening on ws://127.0.0.1:50425
+Read port: 50444
+1715154276936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50425/devtools/browser/d107a23b-edcb-41a9-b03e-ca8d2ae24c2d
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+1715154293540	Marionette	INFO	Stopped listening on port 50444
+Dynamically enable window occlusion 1
+1715154302034	geckodriver	INFO	Listening on 127.0.0.1:50538
+1715154305085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50539" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileh4mMnN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715154305726	Marionette	INFO	Marionette enabled
+1715154305922	Marionette	INFO	Listening on port 50546
+WebDriver BiDi listening on ws://127.0.0.1:50539
+Read port: 50546
+1715154306426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50539/devtools/browser/5830b616-bc17-4f86-8ad3-273a1a93c0c8
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+1715154322381	Marionette	INFO	Stopped listening on port 50546
+Dynamically enable window occlusion 1
+1715154330343	geckodriver	INFO	Listening on 127.0.0.1:50638
+1715154333381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50639" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofiledfB6bg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715154334179	Marionette	INFO	Marionette enabled
+1715154334430	Marionette	INFO	Listening on port 50649
+WebDriver BiDi listening on ws://127.0.0.1:50639
+Read port: 50649
+1715154334873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50639/devtools/browser/05ad5c76-3cec-4f19-92e3-a2e84a663780
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+1715154353651	Marionette	INFO	Stopped listening on port 50649
+JavaScript warning: https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1, line 1: Script terminated by timeout at:
+of@https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1:1:7695
+get@https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1:1:59781
+css@https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1:1:59474
+i.fn[u]/<@https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1:1:88163
+w@https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1:1:42582
+i.fn[u]@https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1:1:87906
+f.scrollbarWidth@https://ara.jri.ac.ir/Scripts/jquery.fancybox.pack.js:45:318
+@https://ara.jri.ac.ir/Scripts/jquery.fancybox.pack.js:46:104
+l@https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1:1:40126
+Deferred/then/s/</a<@https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1:1:40434
+
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+Dynamically enable window occlusion 1
+1715154357863	geckodriver	INFO	Listening on 127.0.0.1:50739
+1715154360929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50740" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileQE2RTd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715154361721	Marionette	INFO	Marionette enabled
+1715154361973	Marionette	INFO	Listening on port 50752
+WebDriver BiDi listening on ws://127.0.0.1:50740
+Read port: 50752
+1715154363087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50740/devtools/browser/2d41d6d0-e495-460e-b07b-6e7ac6ab4505
+1715154379865	Marionette	INFO	Stopped listening on port 50752
+Dynamically enable window occlusion 1
+1715154384995	geckodriver	INFO	Listening on 127.0.0.1:50832
+1715154388064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofile8vP3pb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715154388845	Marionette	INFO	Marionette enabled
+1715154389000	Marionette	INFO	Listening on port 50840
+Read port: 50840
+WebDriver BiDi listening on ws://127.0.0.1:50833
+1715154389351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50833/devtools/browser/9372c33b-0f0d-4169-8f08-9191dffa251b
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+1715154408120	Marionette	INFO	Stopped listening on port 50840
+Dynamically enable window occlusion 1
+1715154412568	geckodriver	INFO	Listening on 127.0.0.1:50931
+1715154415637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileRbEQz0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715154416794	Marionette	INFO	Marionette enabled
+1715154417132	Marionette	INFO	Listening on port 50940
+WebDriver BiDi listening on ws://127.0.0.1:50932
+Read port: 50940
+1715154417776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50932/devtools/browser/c98809bd-3013-4ac2-9a1b-b001c9726dd2
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+1715154434763	Marionette	INFO	Stopped listening on port 50940
+Dynamically enable window occlusion 1
+1715154439058	geckodriver	INFO	Listening on 127.0.0.1:51035
+1715154442109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51036" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofile3MSDI8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715154444307	Marionette	INFO	Marionette enabled
+1715154444805	Marionette	INFO	Listening on port 51045
+WebDriver BiDi listening on ws://127.0.0.1:51036
+Read port: 51045
+1715154445918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51036/devtools/browser/b1c3faa9-c320-494c-a534-ccbc50df7e43
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+1715154467966	Marionette	INFO	Stopped listening on port 51045
+JavaScript warning: https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1, line 1: Script terminated by timeout at:
+i.readyException@https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1:1:41819
+i.fn.ready/<@https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1:1:41901
+l@https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1:1:40126
+Deferred/then/s/</a<@https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1:1:40434
+
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+Dynamically enable window occlusion 1
+1715158193904	geckodriver	INFO	Listening on 127.0.0.1:50670
+1715158196988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileL702HE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715158197365	Marionette	INFO	Marionette enabled
+1715158197464	Marionette	INFO	Listening on port 50688
+WebDriver BiDi listening on ws://127.0.0.1:50671
+Read port: 50688
+1715158197705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50671/devtools/browser/8f8e3cb7-12c2-429e-baa0-c9fd91a6e06a
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+1715158204790	Marionette	INFO	Stopped listening on port 50688
+JavaScript warning: chrome://global/content/elements/marquee.js, line 139: Script terminated by timeout at:
+get outerDiv@chrome://global/content/elements/marquee.js:139:3
+_doMove@chrome://global/content/elements/marquee.js:348:7
+myTimeOutFunction@chrome://global/content/elements/marquee.js:353:14
+
+console.error: ({})
+Dynamically enable window occlusion 1
+1715158208138	geckodriver	INFO	Listening on 127.0.0.1:50764
+1715158211206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofilefukeKW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715158211588	Marionette	INFO	Marionette enabled
+1715158211701	Marionette	INFO	Listening on port 50776
+WebDriver BiDi listening on ws://127.0.0.1:50765
+Read port: 50776
+1715158211937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50765/devtools/browser/99e79545-a443-4fc3-9d00-00642f8ad701
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+1715158222278	Marionette	INFO	Stopped listening on port 50776
+console.error: ({})
+Dynamically enable window occlusion 1
+1715158225594	geckodriver	INFO	Listening on 127.0.0.1:50867
+1715158228675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileFPiRqr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715158229087	Marionette	INFO	Marionette enabled
+1715158229205	Marionette	INFO	Listening on port 50876
+WebDriver BiDi listening on ws://127.0.0.1:50868
+Read port: 50876
+1715158229445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50868/devtools/browser/5867967c-1c9b-466b-a11b-077497b8e1cb
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+1715158240926	Marionette	INFO	Stopped listening on port 50876
+console.error: ({})
+Dynamically enable window occlusion 1
+1715159894981	geckodriver	INFO	Listening on 127.0.0.1:50236
+1715159898061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50237" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileEk4b1g"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715159898451	Marionette	INFO	Marionette enabled
+1715159898548	Marionette	INFO	Listening on port 50247
+WebDriver BiDi listening on ws://127.0.0.1:50237
+Read port: 50247
+1715159898783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50237/devtools/browser/3324c298-ce4b-4f70-852c-da1e4e393fe4
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+1715159902610	Marionette	INFO	Stopped listening on port 50247
+Dynamically enable window occlusion 1
+1715160024348	geckodriver	INFO	Listening on 127.0.0.1:50342
+1715160027431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50343" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileqTNfx8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715160027817	Marionette	INFO	Marionette enabled
+1715160027921	Marionette	INFO	Listening on port 50353
+WebDriver BiDi listening on ws://127.0.0.1:50343
+Read port: 50353
+1715160028153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50343/devtools/browser/d83532cb-9a06-4039-806c-3feac501636b
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+1715160040922	Marionette	INFO	Stopped listening on port 50353
+JavaScript warning: chrome://global/content/elements/marquee.js, line 139: Script terminated by timeout at:
+get outerDiv@chrome://global/content/elements/marquee.js:139:3
+_doMove@chrome://global/content/elements/marquee.js:348:7
+myTimeOutFunction@chrome://global/content/elements/marquee.js:353:14
+
+Dynamically enable window occlusion 1
+1715160044122	geckodriver	INFO	Listening on 127.0.0.1:50394
+1715160047185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofilekTZjGl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715160047580	Marionette	INFO	Marionette enabled
+1715160047675	Marionette	INFO	Listening on port 50403
+WebDriver BiDi listening on ws://127.0.0.1:50395
+Read port: 50403
+1715160047893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50395/devtools/browser/b95da695-1b70-44d2-b55f-cfaabeb4815f
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+1715160065011	Marionette	INFO	Stopped listening on port 50403
+Dynamically enable window occlusion 1
+1715160068422	geckodriver	INFO	Listening on 127.0.0.1:50452
+1715160071497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofile1Kct6P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715160071882	Marionette	INFO	Marionette enabled
+1715160071980	Marionette	INFO	Listening on port 50462
+WebDriver BiDi listening on ws://127.0.0.1:50453
+Read port: 50462
+1715160072199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50453/devtools/browser/8f3cbf57-da6d-48bb-b0e7-ef0dc65880a5
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+1715160082913	Marionette	INFO	Stopped listening on port 50462
+Dynamically enable window occlusion 1
+1715162597176	geckodriver	INFO	Listening on 127.0.0.1:60234
+1715162600264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofile1pyact"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715162600821	Marionette	INFO	Marionette enabled
+1715162600920	Marionette	INFO	Listening on port 60247
+WebDriver BiDi listening on ws://127.0.0.1:60235
+Read port: 60247
+1715162601188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60235/devtools/browser/e93efe86-e2ec-49fc-bf5e-db814e1ee298
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+1715162608324	Marionette	INFO	Stopped listening on port 60247
+JavaScript warning: https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1, line 1: Script terminated by timeout at:
+fr@https://ara.jri.ac.ir/bundles/jquery?v=h65qSY4-12u4palMNjV2LmIb1KLc8ZO5g9Lav91x5Sk1:1:8099
+
+Dynamically enable window occlusion 1
+1715162612050	geckodriver	INFO	Listening on 127.0.0.1:60326
+1715162615098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofiledbaiJs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715162615500	Marionette	INFO	Marionette enabled
+1715162615605	Marionette	INFO	Listening on port 60347
+WebDriver BiDi listening on ws://127.0.0.1:60327
+Read port: 60347
+1715162615704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60327/devtools/browser/0c3aeb19-d2f4-4bc3-8e68-b9e0fb525511
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+1715162626504	Marionette	INFO	Stopped listening on port 60347
+Dynamically enable window occlusion 1
+1715162758188	geckodriver	INFO	Listening on 127.0.0.1:60557
+1715162761275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60558" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileioyKFG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715162761743	Marionette	INFO	Marionette enabled
+1715162761845	Marionette	INFO	Listening on port 60569
+WebDriver BiDi listening on ws://127.0.0.1:60558
+Read port: 60569
+1715162762103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60558/devtools/browser/d6f5ebdc-e283-43fa-9469-4b9b0ed195ed
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+1715162770389	Marionette	INFO	Stopped listening on port 60569
+JavaScript warning: chrome://global/content/elements/marquee.js, line 139: Script terminated by timeout at:
+get outerDiv@chrome://global/content/elements/marquee.js:139:3
+_doMove@chrome://global/content/elements/marquee.js:348:7
+myTimeOutFunction@chrome://global/content/elements/marquee.js:353:14
+
+Dynamically enable window occlusion 1
+1715162774310	geckodriver	INFO	Listening on 127.0.0.1:60649
+1715162777384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileZJW3bD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715162778130	Marionette	INFO	Marionette enabled
+1715162778236	Marionette	INFO	Listening on port 60662
+WebDriver BiDi listening on ws://127.0.0.1:60650
+Read port: 60662
+1715162778441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60650/devtools/browser/40036129-1750-4afd-a4aa-fc5d6de95077
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/Scripts/Judge.js, line 52: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+console.error: ({})
+1715162789844	Marionette	INFO	Stopped listening on port 60662
+Dynamically enable window occlusion 1
+1715162793636	geckodriver	INFO	Listening on 127.0.0.1:60757
+1715162796696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\N41D1~1.HAG\\AppData\\Local\\Temp\\rust_mozprofileA8Um2u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715162797364	Marionette	INFO	Marionette enabled
+1715162797466	Marionette	INFO	Listening on port 60767
+WebDriver BiDi listening on ws://127.0.0.1:60758
+Read port: 60767
+1715162797690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60758/devtools/browser/0c99e603-f59b-477a-80a3-706a97df5bd1
+JavaScript error: https://ara.jri.ac.ir/bundles/jqueryval?v=Lsri3gm2OMMeEGYETV_8zT5FxBUpINj3Z2rE9qi1jQs1, line 1: TypeError: n(...).parents(...).andSelf is not a function
+1715162810379	Marionette	INFO	Stopped listening on port 60767
+console.error: ({})
+Dynamically enable window occlusion 1
