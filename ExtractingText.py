@@ -36,8 +36,8 @@ class Extract():
         div_element = soup.find("div", id="treeText", class_="BackText line-height-1-8 font-size-large")
         if div_element:
             return str(div_element)
-        else:
-            return "Div with id 'treetext' and class 'BackText line-height-1-8 font-size-large' not found."
+        # else:
+        #     return "Div with id 'treetext' and class 'BackText line-height-1-8 font-size-large' not found."
 
       
 
