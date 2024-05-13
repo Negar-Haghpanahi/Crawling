@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver import firefox
 from selenium.webdriver import Firefox
-from selenium.webdriver.firefox.options import Options
+
 
 
 class Extract():
@@ -25,22 +25,20 @@ class Extract():
 
         self.objclass.driver = webdriver.Firefox()
         self.objclass.driver.get(self.url)
-        
+            
 
         html_content = self.objclass.driver.page_source
         self.objclass.driver.quit()
 
         soup = BeautifulSoup(html_content, "html.parser")
         
-        # Find the div with id "treetext" and class "BackText line-height-1-8 font-size-large"
-        div_element = soup.find("div", id="treeText", class_="BackText line-height-1-8 font-size-large")
+        # div_element = soup.find("div", id="treeText", class_="BackText line-height-1-8 font-size-large")
+        div_element = soup.find_all("div", class_="col-md-11")
+
         if div_element:
             return str(div_element)
-        # else:
-        #     return "Div with id 'treetext' and class 'BackText line-height-1-8 font-size-large' not found."
-
-      
-
-     
+        else:
+            return "Div is not found."
+        
     
   
