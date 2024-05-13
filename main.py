@@ -1,13 +1,13 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver import firefox
-from selenium.webdriver import Firefox
-from selenium.webdriver.firefox.options import Options
-
-
+from selenium.webdriver.chrome.options import Options
 from Crawling import *
 from InputClass import *
 from MarkDown import *
+
+from selenium.webdriver import firefox
+from selenium.webdriver import Firefox
+from selenium.webdriver.firefox.options import Options
 
 
 
@@ -18,9 +18,8 @@ def Crawling(inputclass : Crawled_Page):
     options = Options()
     options.headless = True  # Set headless mode
 
-    inputclass.driver = webdriver.Firefox()
- 
 
+    inputclass.driver = webdriver.Firefox()
     inputclass.driver.get(inputclass.URL)
     div_elements = inputclass.driver.find_elements(By.CLASS_NAME, inputclass.inner_class_name)
 
@@ -47,21 +46,23 @@ if __name__ == '__main__':
     Crawl_class.inner_class_name = "col-md-4.col-sm-6"
     Crawl_class.Xpath = ".//a[@href]"
     Crawl_class = Crawling(Crawl_class)
-    count =0
+   
     
-    for sub_url in Crawl_class.subURL:
+    count = 0
 
-        if count < 2:   
+    for sub_url in Crawl_class.subURL:
+        
+        if count < 1 :
             Crawl_class.URL = sub_url
             outputObj = MarkdownText(Crawl_class)
             
             text = text + outputObj.make_Markdown() 
-            count = count + 1
-                
-        outputObj.Save_Markdown(text)
             
-        
-        
-
-
+            count = count + 1
+    outputObj.Save_Markdown(text)
+            
     
+    
+
+
+ 
